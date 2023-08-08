@@ -2,7 +2,7 @@
 Link presentasi: 
 
 ## Learning Vector Quantizer (LVQ)
-LVQ Learning Vector Quantizer (LVQ) merupakan salah satu algoritma clustering (unsupervised), tetapi dapat diadaptasi menjadi algoritma klasifikasi (supervised). Unit output pada arsitektur/model LVQ merepresentasikan sebuah kelas.
+LVQ Learning Vector Quantizer (LVQ) merupakan salah satu algoritma artificial neural network clustering (unsupervised), tetapi dapat diadaptasi menjadi algoritma klasifikasi (supervised). Unit output pada arsitektur/model LVQ merepresentasikan sebuah kelas.
 
 ## Particle Swarm Optimization (PSO) 
 Particle Swarm Optimization (PSO) adalah metode optimasi masalah dengan secara iteratif meningkatkan solusi kandidat sehubungan dengan ukuran kualitas (measure of quality) yang diberikan. PSO memecahkan masalah dengan memiliki populasi solusi kandidat, yaitu partikel, dan memindahkan partikel-partikel ini di search-space sesuai dengan rumus matematika posisi dan kecepatan partikel. 
